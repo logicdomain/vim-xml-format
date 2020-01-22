@@ -4,3 +4,8 @@
 ```
 # ./prepare.sh
 ```
+- In vim:
+- Run:
+```
+:XmlFormat
+```

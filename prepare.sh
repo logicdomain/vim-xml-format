@@ -1,3 +1,3 @@
 #!/bin/bash
 apt update
-apt install xmlformat-perl
+apt install -y xmlformat-perl

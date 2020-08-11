@@ -1,11 +1,12 @@
-# 1. How to use?
-- Install the plug into vim plug directory.
-- Then run:
+# 1. Installation
 ```
-# ./prepare.sh
+Plug 'logicdomain/vim-xmlformat', {'do': './prepare.sh'}
 ```
+# 2. How to use?
 - In vim:
 - Run:
 ```
 :XmlFormat
 ```
+
+

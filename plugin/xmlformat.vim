@@ -1,1 +1,1 @@
-command! XmlFormat :execute "!xmlformat -i %"
+command! XmlFormat :execute "%!xmlformat"
